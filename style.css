@@ -1,0 +1,21 @@
+
+.flexCenter{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+form{
+    display: flex;
+    float: center;
+    flex-direction: column;
+}
+input{
+    width: 100%;
+    height: 30px;
+}
+.invalid{
+    color:red;
+}
+.hide{
+    display: none;
+}
